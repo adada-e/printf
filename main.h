@@ -32,4 +32,4 @@ int print_b(va_list args, int len);
 int print_binary(unsigned int, int);
 int print_Str(va_list args, int len);
 
-#endif
+endif
